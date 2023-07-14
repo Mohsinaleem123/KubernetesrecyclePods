@@ -1,6 +1,3 @@
-[11:57 PM] Aamir Saleem
-
-
 
 check_pod_readiness() {
   local pod
